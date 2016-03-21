@@ -1,3 +1,6 @@
+body{
+    background-color: #e6e6e6
+}
 div#header {
     background-color: black;
     height: 100px;
@@ -7,13 +10,22 @@ div#header {
 div#gnome {
     color: #dea821;
     float: left;
+    padding-left: 25px;
+    padding-right: 200px;
+    font-size: 49px;
+    padding-top: 20px;
 }
 
 div#text1 {
     color: grey;
     float: left;
+    padding-top: 54px;
+    font-size: 23px;
 }
 div#view {
     color: white;
     float: left;
+    padding-left: 42px;
+    font-size: 20px;
+    padding-top: 53px;
 }
