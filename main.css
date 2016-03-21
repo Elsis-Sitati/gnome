@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #e6e6e6
 }
 div#header {
@@ -6,7 +6,6 @@ div#header {
     height: 100px;
     width: 100%;
 }
-
 div#gnome {
     color: #dea821;
     float: left;
@@ -15,7 +14,6 @@ div#gnome {
     font-size: 49px;
     padding-top: 20px;
 }
-
 div#text1 {
     color: grey;
     float: left;
@@ -30,9 +28,27 @@ div#view {
     padding-top: 53px;
 }
 div#content1 {
-    background-image:url(assets/big_img.jpg);
+    background-image: url(assets/big_img.jpg);
     height: 477px;
     margin-top: 31px;
     background-repeat: no-repeat;
     background-size: auto 477px;
+}
+p#pone {
+    padding-top: 26px;
+    padding-left: 20px;
+    font-size: 43px;
+    font-weight: lighter;
+    color: #b3b3b3;
+    font-family: 'Indie Flower', cursive;
+}
+p#ptwo {
+    font-family: 'Indie Flower', cursive;
+    margin-top: 21px;
+    color: #A9A9A9;
+}
+hr {
+    width: 339px;
+    margin-left: -5px;
+    margin-top: -6px;
 }
