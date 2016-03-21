@@ -1,0 +1,19 @@
+div#header {
+    background-color: black;
+    height: 100px;
+    width: 100%;
+}
+
+div#gnome {
+    color: #dea821;
+    float: left;
+}
+
+div#text1 {
+    color: grey;
+    float: left;
+}
+div#view {
+    color: white;
+    float: left;
+}
