@@ -52,3 +52,24 @@ hr {
     margin-left: -5px;
     margin-top: -6px;
 }
+
+div#content2 {
+    background-color: white;
+    height: 259px;
+    margin-top: 34px;
+    padding-top: -1px;
+    padding-top: 7px;
+    font-family: 'Arvo', serif;
+    padding-left: 39px;
+}
+p#pthree {
+    color: #595959;
+}
+button {
+    margin-top: 22px;
+    width: 86px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
