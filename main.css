@@ -29,3 +29,10 @@ div#view {
     font-size: 20px;
     padding-top: 53px;
 }
+div#content1 {
+    background-image:url(assets/big_img.jpg);
+    height: 477px;
+    margin-top: 31px;
+    background-repeat: no-repeat;
+    background-size: auto 477px;
+}
