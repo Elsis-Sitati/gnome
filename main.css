@@ -32,7 +32,7 @@ div#content1 {
     height: 477px;
     margin-top: 15px;
     background-repeat: no-repeat;
-    background-size: auto 477px;
+    background-size: 100% 477px;
 }
 p#pone {
     padding-top: 26px;
@@ -86,13 +86,37 @@ div#editable {
     text-align: center;
     float: left;
 }
+
 div#versatile {
     width: 30%;
     text-align: center;
     float: left;
 }
+
+
 div#professional {
     width: 30%;
     text-align: center;
     float: left;
 }
+
+div#content4 {
+    width: 100%;
+    height: 300px;
+}
+div#text2 {
+    width: 45%;
+    text-align: left;
+    float: left;
+}
+   
+div#pic {
+    background-image: url(assets/img1.jpg);
+    height: 238px;
+    width: 45%;
+    background-repeat: no-repeat;
+    float: right;
+    background-size: 403px 236px;
+}
+
+    
