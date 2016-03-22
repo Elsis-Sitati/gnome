@@ -133,4 +133,14 @@ div#text4 {
     font-family: 'Arvo', serif;
     padding-right: 28px
 }
+div#content6 {
+    text-align: center;
+    color: white;
+    background-color: green;
+    font-size: 30px;
+    margin-top: 30px;
+    width: 100%;
+    height: 127px;
+    padding-top: 24px;
+}
 
