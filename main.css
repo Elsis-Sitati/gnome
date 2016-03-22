@@ -86,30 +86,28 @@ div#editable {
     text-align: center;
     float: left;
 }
-
 div#versatile {
     width: 30%;
     text-align: center;
     float: left;
 }
-
-
 div#professional {
     width: 30%;
     text-align: center;
     float: left;
 }
-
 div#content4 {
     width: 100%;
     height: 300px;
+    background-color: white;
+    margin-top: 38px;
+    font-family: 'Arvo', serif;
 }
 div#text2 {
     width: 45%;
     text-align: left;
     float: left;
 }
-   
 div#pic {
     background-image: url(assets/img1.jpg);
     height: 238px;
@@ -118,5 +116,21 @@ div#pic {
     float: right;
     background-size: 403px 236px;
 }
+div#content5 {
+    width: 100%;
+    height: 250px;
+    background-color: white;
+    margin-top: 23px;
+}
 
-    
+div#image {
+    width: 45%;
+    float: left;
+}
+div#text4 {
+    width: 45%;
+    float: right;
+    font-family: 'Arvo', serif;
+    padding-right: 28px
+}
+
